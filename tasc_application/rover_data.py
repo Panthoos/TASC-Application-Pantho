@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Note I just initialized these variables with specifec values
-# Typically I assume they would collect these values from somewhere else
+# Typically I assume the program would collect these values from somewhere else
 # like an ex. relationship like motor/sensor -> txt file -> python file -> publisher/subscriber nodes 
 
 lat, lon = 37.5, 40.3 # deg
