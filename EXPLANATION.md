@@ -1,3 +1,6 @@
+Note my publisher and subscruber nodes are in the files publisher.py and subscriber.py under the folder tasc_application
+Also my publisher node pulls data from rover_data.py, and ignore the vs_code files that was mb
+
 Explanation for data types:
 
 There were many different types of data I chose to send to the publisher. I chose simple GPS coordinates, battery level, obstacle distance, 
