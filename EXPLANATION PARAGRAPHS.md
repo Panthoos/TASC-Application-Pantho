@@ -1,4 +1,4 @@
-Note my publisher and subscruber nodes are in the files publisher.py and subscriber.py under the folder tasc_application
+Note my publisher and subscriber nodes are in the files publisher.py and subscriber.py under the folder tasc_application
 Also my publisher node pulls data from rover_data.py, and ignore the vs_code files that was mb
 
 Explanation for data types:
