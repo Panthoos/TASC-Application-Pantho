@@ -1,3 +1,5 @@
+Explanation for data types:
+
 There were many different types of data I chose to send to the publisher. I chose simple GPS coordinates, battery level, obstacle distance, 
 internal and external temperature, communication signal strength, and some basic  motor feedback (commanded speed vs measured speed. These represent some essential 
 information I believe a rover would need to continuously generate and share.
